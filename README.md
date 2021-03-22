@@ -9,8 +9,9 @@ This demo follows a quickstart:
 - [x] log into Google Cloud https://cloud.google.com
 - [x] click *Console* in upper right corner
 - [x] in the Console, click *Navigation menu* in upper left corner
-- [x] click on *App Engine*
-- [x] on the right side the window splits exposing "Learn" "Home" and under "Recommended for you" the first item is "App Engine Quickstart" 
+- [x] in the Navigation menu, click on *App Engine*
+- [x] in the upper right corner of the window click on "Learn" or "Learn Home" 
+- [x] under "Recommended for you", click on "App Engine Quickstart" 
 
 https://cloud.google.com/appengine/docs/standard/python3/quickstartLinks to an external site.
 
