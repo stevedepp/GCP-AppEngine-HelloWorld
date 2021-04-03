@@ -19,7 +19,7 @@ This demo follows a Google Cloud Platform (GCP) quickstart:
 **Demo Video 3**  
 ### Google App Engine   
 
-**Steve Depp ** 
+**Steve Depp**  
 **MSDS 434 section 55**   
 
 **Geewax Chapter 11**  
