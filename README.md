@@ -3,11 +3,8 @@ Quick demo video of a hello world tutorial for Google Cloud Platform's AppEngine
 
 Transcript & slides are below. Please unmute this demo video to hear it with sound.  Resolution of the video is improved in full screen.
 
-<video src="https://user-images.githubusercontent.com/38410965/111926274-97acd500-8a82-11eb-8bd4-17b26185dc00.mp4" autoplay controls loop muted style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/38410965/111926274-97acd500-8a82-11eb-8bd4-17b26185dc00.mp4">
 </video>
-
-
-![demo](https://user-images.githubusercontent.com/38410965/111926274-97acd500-8a82-11eb-8bd4-17b26185dc00.mp4)
 
 This demo follows a Google Cloud Platform (GCP) quickstart:
 - [x] log into Google Cloud https://cloud.google.com
